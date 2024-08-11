@@ -4,6 +4,8 @@
   <img width="460" height="300" src="https://i.imgur.com/nDYQHyd.png">
 </p>
 
+chickOS Helper : https://github.com/klausmorgan/chickOS_Helper
+
 chickOS 7 : https://bit.ly/47UI14P
 
 chickOS 8.1 : https://bit.ly/3SY2eCd
