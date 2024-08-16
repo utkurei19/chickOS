@@ -6,15 +6,9 @@
 
 chickOS Helper : https://github.com/klausmorgan/chickOS_Helper
 
-chickOS 7 : https://bit.ly/47UI14P
+chickOS 10 : https://bit.ly/3WNFaX2
 
-chickOS 8.1 : https://bit.ly/3SY2eCd
-
-chickOS 10 : https://bit.ly/3SvZqKv
-
-chickOS 10 LTSC : https://bit.ly/3GLJTRH
-
-chickOS 11 : https://bit.ly/3Oz1S1E
+chickOS 11 : https://bit.ly/4dCMETE
                                        
 Discord : https://discord.gg/gayZTErQzM
 
